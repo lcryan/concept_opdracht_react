@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div>
-        Let's start our app!
+        This is just a source repository - to download pictures etc.
+        Real application will be made from scratch
     </div>
   );
 }
